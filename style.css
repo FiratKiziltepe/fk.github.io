@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h2 {
+  color: #343a40;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+#about, #projects, #education, #academic {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #f8f9fa !important;
+  font-size: 18px;
+}
+
+footer {
+  background-color: #343a40;
+}
